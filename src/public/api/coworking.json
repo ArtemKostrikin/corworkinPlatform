@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "WeWork", "city": "Москва", "price": 5000 },
+  { "id": 2, "name": "Regus", "city": "Санкт-Петербург", "price": 4000 },
+  { "id": 3, "name": "Workki", "city": "Казань", "price": 3000 }
+]
